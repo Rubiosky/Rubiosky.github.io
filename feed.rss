@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+	<title>Feed de Rubén Pérez</title>
+	<link></link>
+	<description>Página web de noticias</description>
+	<language>es-ES</language>
+	<item>
+		<title>El Tiempo en El Puertito de Güímar</title>
+		<link>https://www.tiempo.es/santa_cruz_de_tenerife-el_puertito_de_guimar-esyy22435.html</link>
+		<description>Aqui podrá ver la previsión del tiempo en El puertito de Güímar</description>
+	</item>
+</channel>
+</rss>
