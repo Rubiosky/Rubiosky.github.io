@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
-<channel>
-	<title>Feed de Rubén Pérez</title>
-	<link>https://rubiosky.github.io/feed.rss</link>
-	<description>Página web de noticias</description>
-	<language>es-ES</language>
-	<item>
-		<title>El Tiempo en El Puertito de Güímar</title>
-		<link>https://www.tiempo.es/santa_cruz_de_tenerife-el_puertito_de_guimar-esyy22435.html</link>
-		<description>Aqui podrá ver la previsión del tiempo en El puertito de Güímar</description>
-	</item>
-</channel>
+    <channel>
+        <title>Feed de Rubén Pérez</title>
+        <link>https://rubiosky.github.io/feed.rss</link>
+        <description>Página web de noticias</description>
+        <language>es-ES</language>
+        <item>
+            <title>El Tiempo en El Puertito de Güímar</title>
+            <link>https://www.tiempo.es/santa_cruz_de_tenerife-el_puertito_de_guimar-esyy22435.html</link>
+            <description>Aqui podrá ver la previsión del tiempo en El puertito de Güímar</description>
+        </item>
+        <item>
+            <title>Fomento del deporte</title>
+            <link>https://rubiosky.github.io/</link>
+            <description>Aqui tiene una nueva web sobre el fomento del deporte</description>
+        </item>
+		<item>
+            <title>Gráfica coronavirus España</title>
+            <link>https://www.epdata.es/datos/coronavirus-china-datos-graficos/498</link>
+            <description>Aqui tiene una gráfica y datos sobre el COVID-19 en España</description>
+        </item>
+    </channel>
 </rss>
